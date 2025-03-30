@@ -3,14 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giapchicuong&label=Profile%20views&color=0e75b6&style=flat" alt="giapchicuong" /> </p>
 💫 About Me:
-- 🌱 I’m currently working on **Java, Kotlin (Android) and Dart (Flutter)**
-
-- 📫 How to reach me: **namanh11611@gmail.com**
-
-- 📄 Know about my experiences: **[Henry's CV](https://bit.ly/namanhnguyen)**
-
-- ⚡ Fun fact: all my account IDs are namanh11611
-
+- 🌱 I’m currently working on **Dart (Flutter)** 
+<br/>
+- 📫 How to reach me: **william.giap.dev@gmail.com**
+<br/>
+<br/>
 # 👀 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/giapchicuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giapchicuong" height="30" width="40" /></a>
