@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently working on Dart (Flutter)<br><br>📫 How to reach me: william.giap.dev@gmail.com<br><br>⚡ Fun fact: all my account IDs are giapchicuong
+🌱 I’m currently working on Dart (Flutter)<br><br>📫 How to reach me: william.giap.dev@gmail.com<br><br>
 
 
 ## 🌐 Socials:
