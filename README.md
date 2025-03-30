@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giapchicuong&label=Profile%20views&color=0e75b6&style=flat" alt="giapchicuong" /> </p>
 💫 About Me:
-🌱 I’m currently working on Dart (Flutter)<br><br>📫 How to reach me: william.giap.dev@gmail.com<br><br>
+🌱 I’m currently working on Dart (Flutter)<br><br>- 📫 How to reach me: **william.giap.dev@gmail.com**
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giapchicuong) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:william.giap.dev@gmail.com) 
+# 👀 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/giapchicuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giapchicuong" height="30" width="40" /></a>
+</p>
 
 # 👨‍💻 Languages and Tools:
 <p align="left">
@@ -18,7 +20,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-
+<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=giapchicuong&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=giapchicuong&theme=dark&hide_border=false)<br/>
