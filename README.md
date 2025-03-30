@@ -6,9 +6,8 @@
 - 🌱 I’m currently working on **Dart (Flutter)** 
 <br/>
 - 📫 How to reach me: **william.giap.dev@gmail.com**
-<br/>
-<br/>
-# 👀 Connect with me:
+
+👀 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/giapchicuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giapchicuong" height="30" width="40" /></a>
 </p>
