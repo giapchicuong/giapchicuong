@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giapchicuong&label=Profile%20views&color=0e75b6&style=flat" alt="giapchicuong" /> </p>
 💫 About Me:
-- 🌱 I’m currently working on **Dart (Flutter)**
+- 🌱 I’m currently working on **Dart (Flutter)** <br/>
 
-- 📫 How to reach me: **william.giap.dev@gmail.com**
+- 📫 How to reach me: **william.giap.dev@gmail.com** <br/>
 
 # 👀 Connect with me:
 <p align="left">
