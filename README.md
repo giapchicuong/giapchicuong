@@ -1,6 +1,9 @@
+<h1 align="center">Hi there 👋, I'm William Giap</h1>
+<h3 align="center">A passionate Mobile Developer from Vietnam</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giapchicuong&label=Profile%20views&color=0e75b6&style=flat" alt="giapchicuong" /> </p>
 # 💫 About Me:
 🌱 I’m currently working on Dart (Flutter)<br><br>📫 How to reach me: william.giap.dev@gmail.com<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giapchicuong) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:william.giap.dev@gmail.com) 
